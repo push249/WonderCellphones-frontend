@@ -1,6 +1,6 @@
-#Shopping Cart Frontend
+# Shopping Cart Frontend
 
-##College project for the courses:
+## College project for the courses:
 Advanced Internet Programming and Design
 Web Services Techniques and REST Technologies
 Web Front-end Programming for Mobile Devices
